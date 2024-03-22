@@ -22,10 +22,10 @@ These projects were completed during the first quarter at Holberton School, focu
   - Low-level programming concepts
 
 ## TOOLS & LANGUAGES MASTERED
-[![My Skills](https://skillicons.dev/icons?i=vscode,emacs,vim,git,github,windows,photoshop,lightroom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,vscode,emacs,vim,git,github,windows,photoshop,discord)](https://skillicons.dev)
 
 ## TOOLS & LANGUAGES IN STUDY
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,python,html,css,js,docker,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,python,html,css,js,docker,linux,ubuntu)](https://skillicons.dev)
 
 
 ## CONTACT ME:
