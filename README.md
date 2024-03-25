@@ -27,11 +27,10 @@ These projects were completed during the first quarter at Holberton School, focu
 ## TOOLS & LANGUAGES IN STUDY
 [![My Skills](https://skillicons.dev/icons?i=c,cs,python,html,css,js,docker,linux,ubuntu)](https://skillicons.dev)
 
-<div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=CLMNTDFR&show_icons=true&theme=prussian&rank_icon=github">
+## STATS
+  <img width="342" src="https://github-readme-stats.vercel.app/api?username=CLMNTDFR&show_icons=true&theme=prussian&rank_icon=github">
   <br>
   <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLMNTDFR&size_weight=0.5&count_weight=0.5&layout=compact&theme=prussian">
-</div>
 
 
 ## CONTACT ME:
