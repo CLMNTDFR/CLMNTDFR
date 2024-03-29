@@ -36,16 +36,17 @@ In collaboration with my peer [Rich ANTRINA](https://github.com/antrinarich), we
 ## TOOLS & LANGUAGES MASTERED
 [![My Skills](https://skillicons.dev/icons?i=bash,vscode,emacs,vim,git,github,windows,photoshop,discord)](https://skillicons.dev)
 <br>
+<br>
 
 ## TOOLS & LANGUAGES IN STUDY
 [![My Skills](https://skillicons.dev/icons?i=c,cs,python,html,css,js,docker,linux,ubuntu)](https://skillicons.dev)
+<br>
 <br>
 
 ## STATS
   <img width="342" src="https://github-readme-stats.vercel.app/api?username=CLMNTDFR&show_icons=true&theme=prussian&rank_icon=github">
   <img width="342" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLMNTDFR&size_weight=0.5&count_weight=0.5&layout=compact&theme=prussian">
   <br>
-
 
 ## CONTACT ME:
 <div>
