@@ -55,3 +55,5 @@ In collaboration with my peer [Rich ANTRINA](https://github.com/antrinarich), we
 </div>
 
 <br>
+
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,nodejs,py,docker,git,ai,ps,pr,&perline=3)](https://skillicons.dev)
