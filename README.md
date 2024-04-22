@@ -34,12 +34,12 @@ In collaboration with my peer [Rich ANTRINA](https://github.com/antrinarich), we
 <br>
 
 ## TOOLS & LANGUAGES MASTERED
-[![My Skills](https://skillicons.dev/icons?i=bash,vscode,html,css,git,github,photoshop,pr,ai,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,html,css,git,github,photoshop,pr,ai,vscode,discord)](https://skillicons.dev)
 <br>
 <br>
 
 ## TOOLS & LANGUAGES IN STUDY
-[![My Skills](https://skillicons.dev/icons?i=c,python,js,nodejs,docker,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,docker,linux,ubuntu)](https://skillicons.dev)
 <br>
 <br>
 
