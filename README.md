@@ -7,7 +7,7 @@ Currently a student at Holberton School (Lille), I study the fundamentals of web
 [<img align="left" height="94px" width="94px" alt="Holberton School" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg"/>](https://www.holbertonschool.fr/)
 **SOFTWARE ENGINEERING ─ FUNDAMENTALS** \
 [**Holberton School**](https://www.holbertonschool.fr/) • IN PROGRESS \
-Skills: `BASH` `C` `PYTHON` `DJANGO` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3` `JAVASCRIPT` `REACT.JS` `NODE.JS` `DOCKER`
+Skills: `BASH` `C` `PYTHON` `DJANGO` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3` `JAVASCRIPT` `REACT.JS` `NODE.JS` `DOCKER` `JAVA` `TYPESCRIPT`
 
 <br clear="left"/>
 
