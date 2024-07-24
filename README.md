@@ -13,7 +13,7 @@ Skills: `BASH` `C` `PYTHON` `DJANGO` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3
 
 ## PROJECTS:
 
-### [N.U.B (North Underground Bands](https://github.com/CLMNTDFR/N.U.B)
+### [N.U.B (North Underground Bands)](https://github.com/CLMNTDFR/N.U.B)
 
 - **OVERVIEW:** 
 Side-project completed during the last quarter at Holberton School, this is a little social-network where an user can share bands and events. 
