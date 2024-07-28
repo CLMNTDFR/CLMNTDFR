@@ -1,3 +1,7 @@
+https://i.postimg.cc/k4b70Q4M/Banni-re-Linked-In-web-designer-Pixellisation-minimaliste-noir-et-violet-1.png
+
+[<img align="left" height="94px" width="94px" alt="Holberton School" src="[/](https://i.postimg.cc/k4b70Q4M/Banni-re-Linked-In-web-designer-Pixellisation-minimaliste-noir-et-violet-1.png)>](https://www.holbertonschool.fr/)
+
 ## HELLO, I'M CLÉMENT 👋 
 
 Currently a student at Holberton School (Lille), I study the fundamentals of web development and become a little more passionate every day.
