@@ -1,3 +1,5 @@
+[<img align="center" alt="Holberton School" src="https://i.postimg.cc/7hVjYdZX/Capture-d-cran-2024-07-29-101320.png"/>](https://www.linkedin.com/in/cl%C3%A9ment-defer-21a2262a7/)
+
 ## HELLO, I'M CLÉMENT 👋 
 
 Currently a student at Holberton School (Lille), I study the fundamentals of web development and become a little more passionate every day.
