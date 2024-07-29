@@ -2,7 +2,10 @@
 
 [<img align="center" alt="Holberton School" src="https://i.postimg.cc/7hVjYdZX/Capture-d-cran-2024-07-29-101320.png"/>](https://www.linkedin.com/in/cl%C3%A9ment-defer-21a2262a7/) 
 
-Currently a student at Holberton School (Lille), I study the fundamentals of web development and become a little more passionate every day.
+Fascinated by the alliance between visual aesthetics and the technical complexity of web development, I am looking for a work-study program of 4 days at work and 1 day of school per week.<br><br>
+Coming from an artistic background, I naturally gravitated towards front-end development, but during my studies at Holberton School, my logical mind fell in love with back-end development.<br><br>
+I like to take on technical challenges and my aspiration is to become the most complete developer possible, including data management, cybersecurity and deployment.<br><br>
+I have a reputation for never giving up when faced with a problem and I remain focused in all circumstances.
 <br>
 
 ## ACADEMIC BACKGROUND:
