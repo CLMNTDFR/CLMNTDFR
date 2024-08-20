@@ -1,7 +1,13 @@
 ## HELLO, I'M CLÉMENT 👋
 
 [<img align="center" alt="Holberton School" src="https://i.postimg.cc/7hVjYdZX/Capture-d-cran-2024-07-29-101320.png"/>](https://www.linkedin.com/in/cl%C3%A9ment-defer-21a2262a7/) 
-
+<br><br>
+<div align="center">
+  <a href="https://clementdefer.netlify.app/" style="font-size: 24px; color: white; text-decoration: none; font-weight: bold;">
+    ➡️ Visit my portfolio website ⬅️
+  </a>
+</div>
+<br><br>
 Fascinated by the alliance between visual aesthetics and the technical complexity of web development, I am looking for a work-study program of 4 days at work and 1 day of school per week.<br><br>
 Coming from an artistic background, I naturally gravitated towards front-end development, but during my studies at Holberton School, my logical mind fell in love with back-end development.<br><br>
 I like to take on technical challenges and my aspiration is to become the most complete developer possible, including data management, cybersecurity and deployment.<br><br>
