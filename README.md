@@ -35,6 +35,18 @@ Side-project completed during the last quarter at Holberton School, this is a li
 <br>
 🌐 Visit the website here: <a href="https://nub-3d9824fd9adf.herokuapp.com/" target="_blank">N.U.B</a>
 
+### [Deathify)](https://github.com/CLMNTDFR/Deathify)
+
+- **OVERVIEW:** 
+Mission completed for the band **Big Death Amego**, this is a Audio streaming and download platform, inspired by the design and simplicity of Spotify. 
+- **KEY LEARNINGS:** 
+  - React Framework
+  - Responsive front-end
+  - UI experience
+  - One-page site
+<br>
+🌐 Visit the website here: <a href="https://deathify.netlify.app/" target="_blank">Deathify</a>
+
 
 ### [LOW LEVEL PROGRAMMING](https://github.com/CLMNTDFR/holbertonschool-low_level_programming)
 
