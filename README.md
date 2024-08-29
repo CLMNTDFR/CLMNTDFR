@@ -14,7 +14,12 @@ I have a reputation for never giving up when faced with a problem and I remain f
 [<img align="left" height="94px" width="94px" alt="Holberton School" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg"/>](https://www.holbertonschool.fr/)
 **SOFTWARE ENGINEERING ─ FUNDAMENTALS** \
 [**Holberton School**](https://www.holbertonschool.fr/) • IN PROGRESS \
-Skills: `BASH` `C` `PYTHON` `DJANGO` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3` `JAVASCRIPT` `REACT.JS` `NODE.JS` `EXPRESS.JS` `MONGODB` `DOCKER`
+<br><br><br>
+**Programming Languages:** `BASH` • `C` • `PYTHON` • `DJANGO` • `PHP` •  `JAVASCRIPT` <br><br>
+**Web Development:** `HTML5` • `CSS3` • `REACT.JS` • `NODE.JS` • `EXPRESS.JS` • `BOOTSTRAP` <br><br>
+**Databases:** `MYSQL` • `SQL` • `MONGODB` <br><br>
+**DevOps & Tools:** `GIT` • `SSH/SSL` •  `DOCKER` <br><br>
+**Design:** `FIGMA` • `CANVA` • `PHOTOSHOP` • `ILLUSTRATOR` <br><br>
 
 <br clear="left"/>
 
@@ -35,7 +40,9 @@ Side-project completed during the last quarter at Holberton School, this is a li
 <br>
 🌐 Visit the website here: <a href="https://nub-3d9824fd9adf.herokuapp.com/" target="_blank">N.U.B</a>
 
-### [Deathify)](https://github.com/CLMNTDFR/Deathify)
+<hr>
+
+### [Deathify](https://github.com/CLMNTDFR/Deathify)
 
 - **OVERVIEW:** 
 Mission completed for the band **Big Death Amego**, this is a Audio streaming and download platform, inspired by the design and simplicity of Spotify. 
@@ -47,6 +54,7 @@ Mission completed for the band **Big Death Amego**, this is a Audio streaming an
 <br>
 🌐 Visit the website here: <a href="https://deathify.netlify.app/" target="_blank">Deathify</a>
 
+<hr>
 
 ### [LOW LEVEL PROGRAMMING](https://github.com/CLMNTDFR/holbertonschool-low_level_programming)
 
@@ -56,7 +64,8 @@ These projects were completed during the first quarter at Holberton School, focu
   - Data Structures
   - Algorithms
   - Low-level programming concepts
-<br>
+
+<hr>
 
  ### [_PRINTF](https://github.com/CLMNTDFR/holbertonschool-printf)
 
@@ -66,11 +75,6 @@ In collaboration with my peer [Rich ANTRINA](https://github.com/antrinarich), we
   - Git collaboration
   - Planning using flowcharts and UML
   - Writing good README
-<br>
-
-## TOOLS & LANGUAGES MASTERED
-[![My Skills](https://skillicons.dev/icons?i=bash,c,html,css,git,github,photoshop,pr,ai)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,docker,linux,ubuntu)](https://skillicons.dev)
-<br>
 <br>
 
 ## STATS
