@@ -56,26 +56,16 @@ Mission completed for the band **Big Death Amego**, this is a Audio streaming an
 
 <hr>
 
-### [LOW LEVEL PROGRAMMING](https://github.com/CLMNTDFR/holbertonschool-low_level_programming)
+### [DEV NAVIGATOR](https://github.com/CLMNTDFR/DevNavigator)
 
 - **OVERVIEW:** 
-These projects were completed during the first quarter at Holberton School, focusing on the low-level programming and algorithm track. 
+Web application designed to allow developers to share development-related content. 
 - **KEY LEARNINGS:** 
-  - Data Structures
-  - Algorithms
-  - Low-level programming concepts
-
-<hr>
-
- ### [_PRINTF](https://github.com/CLMNTDFR/holbertonschool-printf)
-
-- **OVERVIEW:** 
-In collaboration with my peer [Rich ANTRINA](https://github.com/antrinarich), we recreated a simplified printf function, usable on the main format specifiers.
-- **KEY LEARNINGS:** 
-  - Git collaboration
-  - Planning using flowcharts and UML
-  - Writing good README
+  - Back-end with PHP
+  - Front-end with Bootstrap
+  - Managing MySQL using phpMyAdmin
 <br>
+🌐 Visit the website here: <a href="http://devnavigator.kesug.com/" target="_blank">DevNavigator</a>
 
 ## STATS
   <img width="342" src="https://github-readme-stats.vercel.app/api?username=CLMNTDFR&show_icons=true&theme=prussian&rank_icon=github">
