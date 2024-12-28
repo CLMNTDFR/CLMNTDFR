@@ -1,4 +1,4 @@
-## HELLO, I'M CLÉMENT 👋
+## HELLO, I'M CLÉMENT, software development apprentice at DATA-IT ! 👋
 
 [<img align="center" alt="Holberton School" src="https://media.licdn.com/dms/image/v2/C4D1BAQGKT8tZJMm9Qg/company-background_10000/company-background_10000/0/1637833340856/data_it_cover?e=1736002800&v=beta&t=wwA2YBfgm3oTALqc2IyM9ymQ9UmHHnNQROQ_oR5BHyU"/>](https://www.linkedin.com/in/cl%C3%A9ment-defer-21a2262a7/) 
 <br><br>
